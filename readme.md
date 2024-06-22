@@ -2,6 +2,8 @@
 
 [Streamlit_App_Link](https://gauravkdwivedi-next-hike-project-8-app-8mg6um.streamlit.app/)
 
+[Dockerfile_link](https://hub.docker.com/r/gauravkdwivedi/recommendation-system)
+
 ## Objective
 
 The primary objective of this project is to analyze job market trends and build a recommendation system for job seekers based on real-time data. The system will help in identifying high-demand job roles, salary trends, and emerging job categories, and will provide personalized job recommendations.
